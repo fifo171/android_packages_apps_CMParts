@@ -760,4 +760,90 @@
     <string name="perm_enable_management_summary">Povoliť správu povolení aplikácií</string>
     <string name="perm_enable_warning_message">Pozor!\nOdmietnutie väčšiny povolení pravdepodobne zapríčiní nefunkčnosť aplikácie. Ak aplikácia s odmietnutými povoleniami padá, prosím povoľte jej očakávané povolenia, alebo nepoužívajte túto aplikáciu.\nProsím NEZASIELAJTE chybové hlášky do Cyanogenmod ak aplikácia s odmietnutými povoleniami nepracuje ako by sa očakávalo!</string>
     <string name="perm_enable_warning_title">Ste si istý?</string>
+
+<!-- GingerDX settings -->
+    <string name="gingerdx_settings_title">GingerDX nastavenia</string>
+    <string name="gingerdx_settings_summary">Zmena nastavení špecifických pre GingerDX</string>
+    
+     <!-- Call -->
+    <string name="gdx_call_screen1">Nastavenia hovorov</string>
+    <string name="gdx_call_screen2">Hlasnejšie zvonenie, opakovanie zvonenia, vlastný názov operátora atď.</string>
+    <string name="gdx_call_screen_sound">Zvuk</string>
+    <string name="gdx_call_screen_sound_pickup1">Zdvihnutie vytočí číslo</string>
+    <string name="gdx_call_screen_sound_pickup2">Zdihnutím telefónu k tvári sa vytoči zadané telefónne číslo</string>
+    <string name="gdx_call_screen_sound_lounder1">Hlasnejšie zvonenie</string>
+    <string name="gdx_call_screen_sound_lounder2">Zvonenie je hlasnejšie, ak je telefón v taške</string>
+    <string name="gdx_call_screen_sound_loop1">Opakovať zvonenie</string>
+    <string name="gdx_call_screen_sound_loop2">Znovu a znovu a...</string>
+    <string name="gdx_call_screen_sound_flipdown1">Otočenie nadol</string>
+    <string name="gdx_call_screen_sound_flipdown2">Otočenim nadol sa stíši zvonenie</string>
+    <string name="gdx_call_screen_buttons">Tlačidlá</string>
+    <string name="gdx_call_screen_buttons_back1">Späť</string>
+    <string name="gdx_call_screen_buttons_back2">Tlačidlo späť ukončí hovor</string>
+    <string name="gdx_call_screen_buttons_menu1">Menu</string>
+    <string name="gdx_call_screen_buttons_menu2">Tlačidlo menu zdvihne hovor</string>
+    <string name="gdx_call_screen_other">Ďaľšie</string>
+    <string name="gdx_call_screen_other_carrier1">Vlastný názov operátora</string>
+    <string name="gdx_call_screen_other_carrier2">Zobrazuje sa na obrazovke uzamknutia/v stavovm riadku</string>
+
+	<!-- Alarm -->
+    <string name="gdx_alarm_screen1">Budík</string>
+    <string name="gdx_alarm_screen2">Matematický výpočet, funkcie otočenia/zatrasenia, vzrstajúca hlasitosť atď.</string>
+    <string name="gdx_alarm_screen_mathquiz1">Matematický výpočet</string>
+    <string name="gdx_alarm_screen_mathquiz2">Vyriešte matematický výpočet na zastavenie budíka</string>
+    <string name="gdx_alarm_screen_flip1">Funkcia otočenia</string>
+    <string name="gdx_alarm_screen_flip2">Otočiť pre stíšenie/zrušenie budíka</string>
+    <string name="gdx_alarm_screen_shake1">Funkcia zatrasenia</string>
+    <string name="gdx_alarm_screen_shake2">Zatriasť pre stíšenie/zrušenie budíka</string>
+    <string name="gdx_alarm_screen_increasing">Vzrastajúca hlasitosť</string>
+    
+	<!-- Jelly Bean -->
+    <string name="gdx_jelly_screen1">Jelly Beans</string>
+    <string name="gdx_jelly_screen2">Stavový riadok, notifikácie atď.</string>
+    <string name="gdx_jelly_screen_status_bar_category">STAVOVÝ RIADOK</string>
+    <string name="gdx_jelly_screen_information1">Poznámka</string>
+    <string name="gdx_jelly_screen_information2">Pre aplikovanie nastavení je potrebný reštart!\n\n2012 © AChep@xda (artemchep@gmail.com)</string>
+    <string name="gdx_jelly_screen_status_bar">Panel stavového riadku</string>
+    <string name="gdx_jelly_screen_sbbuttons1">Softvérvé tlačidlá</string>
+    <string name="gdx_jelly_screen_sbbuttons2">Softvérové tlačidlá na spodnej časti obrazovky</string>
+    <string name="gdx_jelly_screen_status_bar_notification">Notifikácie</string>
+    <string name="gdx_jelly_screen_status_bar_notification_bigger1">Väčšie notifikácie</string>
+    <string name="gdx_jelly_screen_status_bar_notification_bigger2">Experimentálne!</string>
+
+	<!-- LED -->
+    <string name="gdx_led_screen1">LED upozornenia</string>
+    <string name="gdx_led_screen2">Nastavenia pre vypnutie LED upozornení počas noci</string>
+    <string name="gdx_led_screen_enabled">Vypnúť LED upozornenia</string>
+    <string name="gdx_led_screen_from1">Od</string>
+    <string name="gdx_led_screen_from2">Kedy budú LED upozornenia vypnuté</string>
+    <string name="gdx_led_screen_to1">Do</string>
+    <string name="gdx_led_screen_to2">Kedy budú LED upozornenia zapnuté</string>
+
+	<!-- Other -->
+    <string name="gdx_other_screen1">Ďaľšie</string>
+    <string name="gdx_other_screen2">Ultra Jas, Sense 3 obrazovka uzamknutia, hodiny v strede stavového riadku atď.</string>
+    <string name="gdx_other_screen_userinterface">Používateľské rozhranie</string>
+    <string name="gdx_other_screen_status_bar_centerclock1">Hodiny v strede stavového riadku</string>
+    <string name="gdx_other_screen_status_bar_centerclock2">Namiesto pravej strany</string>
+    <string name="gdx_other_screen_status_bar_transparency1">Priehľadnosť stavového riadku</string>
+    <string name="gdx_other_screen_status_bar_transparency2">Na aplikovanie zmien je potrebný reštart</string>
+    <string name="gdx_other_screen_senselock1">Sense 3 obrazovka uzamknutia</string>
+    <string name="gdx_other_screen_senselock2">Iba základné funkcie</string>
+    <string name="gdx_other_screen_hidemsgavatar">Skryť obrázky kontaktov v SMS aplikácií</string>
+    <string name="gdx_other_screen_ultrabrightness1">Ultra Jas</string>
+    <string name="gdx_other_screen_ultrabrightness2">Zvýši hodnotu jasu (môže zvýšiť spotrebu batérie)</string>
+    <string name="gdx_other_screen_copypaste">Rýchle kopírovanie/prilepenie</string>
+    <string name="gdx_other_screen_updates1">Čas kontroly aktualizácií</string>
+    <string name="gdx_other_screen_updates2">Nastaviť hodinu pre hľadanie aktualizácií</string>
+    <string name="gdx_other_screen_about1">Info</string>
+    <string name="gdx_other_screen_about2">GingerDX by TeamFun</string>
+
+	<!-- Custom carrier label -->
+    <string name="gdx_carrier_note">Ponechajte prázdne pre deaktiváciu</string>
+    <string name="gdx_carrier_carrier">Názov operátora</string>
+    <string name="gdx_carrier_btn_save">Uložiť</string>
+    <string name="gdx_carrier_btn_cancel">Zrušiť</string>
+
+    <string name="title_toggle_ultra_brightness">Prepnúť Ultra Jas</string>
+
 </resources>
