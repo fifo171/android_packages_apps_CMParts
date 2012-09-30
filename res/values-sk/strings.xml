@@ -784,17 +784,17 @@
     <string name="gdx_call_screen_buttons_menu2">Tlačidlo menu zdvihne hovor</string>
     <string name="gdx_call_screen_other">Ďaľšie</string>
     <string name="gdx_call_screen_other_carrier1">Vlastný názov operátora</string>
-    <string name="gdx_call_screen_other_carrier2">Zobrazuje sa na obrazovke uzamknutia/v stavovm riadku</string>
+    <string name="gdx_call_screen_other_carrier2">Zobrazuje sa na obrazovke uzamknutia/v stavovom riadku</string>
 
      <!-- Alarm -->
     <string name="gdx_alarm_screen1">Budík</string>
-    <string name="gdx_alarm_screen2">Matematický výpočet, funkcie otočenia/zatrasenia, vzrstajúca hlasitosť atď.</string>
+    <string name="gdx_alarm_screen2">Matematický výpočet, funkcie otočenia/zatrasenia, vzrastajúca hlasitosť atď.</string>
     <string name="gdx_alarm_screen_mathquiz1">Matematický výpočet</string>
-    <string name="gdx_alarm_screen_mathquiz2">Vyriešte matematický výpočet na zastavenie budíka</string>
+    <string name="gdx_alarm_screen_mathquiz2">Vyriešte matematický výpočet pre zastavenie budíka</string>
     <string name="gdx_alarm_screen_flip1">Funkcia otočenia</string>
-    <string name="gdx_alarm_screen_flip2">Otočiť pre stíšenie/zrušenie budíka</string>
+    <string name="gdx_alarm_screen_flip2">Otočiť pre odloženie/zrušenie budíka</string>
     <string name="gdx_alarm_screen_shake1">Funkcia zatrasenia</string>
-    <string name="gdx_alarm_screen_shake2">Zatriasť pre stíšenie/zrušenie budíka</string>
+    <string name="gdx_alarm_screen_shake2">Zatriasť pre odloženie/zrušenie budíka</string>
     <string name="gdx_alarm_screen_increasing">Vzrastajúca hlasitosť</string>
     
 	<!-- Jelly Bean -->
@@ -804,7 +804,7 @@
     <string name="gdx_jelly_screen_information1">Poznámka</string>
     <string name="gdx_jelly_screen_information2">Pre aplikovanie nastavení je potrebný reštart!\n\n2012 © AChep@xda (artemchep@gmail.com)</string>
     <string name="gdx_jelly_screen_status_bar">Panel stavového riadku</string>
-    <string name="gdx_jelly_screen_sbbuttons1">Softvérvé tlačidlá</string>
+    <string name="gdx_jelly_screen_sbbuttons1">Softvérové tlačidlá</string>
     <string name="gdx_jelly_screen_sbbuttons2">Softvérové tlačidlá na spodnej časti obrazovky</string>
     <string name="gdx_jelly_screen_status_bar_notification">Notifikácie</string>
     <string name="gdx_jelly_screen_status_bar_notification_bigger1">Väčšie notifikácie</string>
